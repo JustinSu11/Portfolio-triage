@@ -5,5 +5,3 @@ xgboost
 scikit-learn
 matplotlib
 seaborn
-dotenv
-google-genai
