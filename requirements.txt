@@ -5,3 +5,6 @@ xgboost
 scikit-learn
 matplotlib
 seaborn
+huggingface_hub
+yfinance
+sentence-transformers
